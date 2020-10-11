@@ -1,8 +1,9 @@
 # Banking and Finance Projects
 
 This is a repository that consolidates all my analytics projects in the Banking and Finance Domain.
-<details>
-## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)
+
+<details>## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)
+sdfsdfsdf
 </details>
 
 
