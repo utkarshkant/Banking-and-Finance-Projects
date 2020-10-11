@@ -3,7 +3,7 @@
 This is a repository that consolidates all my analytics projects in the Banking and Finance Domain.
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)</summary>
 <br>
 This is how you dropdown.
 </details>
