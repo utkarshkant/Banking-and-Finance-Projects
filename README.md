@@ -10,7 +10,7 @@ Build a multi-class text classification model to predict the type of complaint i
 ### Action
 - [Text Classification model with H2O AutoML](https://github.com/utkarshkant/Bank-Complaints-Text-Classification/blob/main/Text_Classification_Bank_Complaints_H2O_AutoML.ipynb)
 - [Text Classification model with XGBoost](https://github.com/utkarshkant/Bank-Complaints-Text-Classification/blob/main/Text_Classification_Bank_Complaints_Inference.ipynb)
-- [Text Classification model with Tensorflow]()
+- [Text Classification model with Tensorflow](https://github.com/utkarshkant/Bank-Complaints-Text-Classification/blob/main/Bank_Complaints_Multiclass_Text_Classifier_Tensorflow.ipynb)
 - [Flask app for delployment](https://github.com/utkarshkant/Bank-Complaints-Text-Classification/tree/main/Bank%20Complaints)
  
 
