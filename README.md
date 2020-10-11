@@ -4,7 +4,7 @@ This is a repository that consolidates all my analytics projects in the Banking 
 
 ## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)
 <details>
-<summary>## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)</summary>
+<summary>Summary[Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)</summary>
 <br>
 This is how you dropdown.
 </details>
@@ -20,3 +20,10 @@ This is how you dropdown.
 ## 6. [RBI Resources Analytics](https://github.com/utkarshkant/RBI-Resources-Analytics)
 
 ## 7. [Google Stock Prediction](https://github.com/utkarshkant/Google-Stock-Prediction)
+
+<details>
+  <summary>Your header here! (Click to expand)</summary>
+  Your content here...
+  > markup like blockquote's should even work on github!
+  more content here...
+</details>
