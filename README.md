@@ -3,14 +3,16 @@
 This is a repository that consolidates all my analytics projects in the Banking and Finance Domain.
 
 ## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)
-<details>
-<summary>
-  <b>Summary</b>
-  <br>
-  Objective[Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)</summary>
-<br>
-This is how you dropdown.
-</details>
+
+### Objective
+Build a multi-class text classification model to predict the type of complaint issued by a customer to a bank.
+
+### Action
+- Build a model with H2O AutoML: https://github.com/utkarshkant/Bank-Complaints-Text-Classification/blob/main/Text_Classification_Bank_Complaints_H2O_AutoML.ipynb
+- Build a model with XGBoost: https://github.com/utkarshkant/Bank-Complaints-Text-Classification/blob/main/Text_Classification_Bank_Complaints_Inference.ipynb
+- Build a model with Tensorflow: 
+- Flask app for delployment: https://github.com/utkarshkant/Bank-Complaints-Text-Classification/tree/main/Bank%20Complaints
+ 
 
 ## 2. [Bank Marketing Acquisition Analytics](https://github.com/utkarshkant/Bank-Marketing-Acquisition-Analytics)
 
