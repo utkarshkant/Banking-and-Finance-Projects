@@ -8,10 +8,8 @@ This is a repository that consolidates all my analytics projects in the Banking 
 This is how you dropdown.
 </details>
 
-<details>## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)
-sdfsdfsdf
-</details>
 
+## 1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)
 
 ## 2. [Bank Marketing Acquisition Analytics](https://github.com/utkarshkant/Bank-Marketing-Acquisition-Analytics)
 
