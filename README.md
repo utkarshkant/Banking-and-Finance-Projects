@@ -2,8 +2,10 @@
 
 This is a repository that consolidates all my analytics projects in the Banking and Finance Domain.
 <details>
-<summary>1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)</summary>
+## <summary>1. [Bank Complaints Text Classification](https://github.com/utkarshkant/Bank-Complaints-Text-Classification)</summary>
 </details>
+
+
 ## 2. [Bank Marketing Acquisition Analytics](https://github.com/utkarshkant/Bank-Marketing-Acquisition-Analytics)
 
 ## 3. [Credit Card Risk Assessment](https://github.com/utkarshkant/Credit-Card-Risk-Assessment)
