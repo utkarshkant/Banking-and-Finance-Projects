@@ -22,7 +22,7 @@ This is how you dropdown.
 ## 7. [Google Stock Prediction](https://github.com/utkarshkant/Google-Stock-Prediction)
 
 <details>
-  <summary>Your header here! (Click to expand)</summary>
+  <summary># Your header here! (Click to expand)</summary>
   Your content here...
   > markup like blockquote's should even work on github!
   more content here...
